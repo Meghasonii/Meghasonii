@@ -1,11 +1,10 @@
-**Megha soni- Workforc Analysist RTA**
+**Megha soni - Workforce Analysist**
 
 Welcome to my GitHub! I’m Megha soni (@Meghasonii), a passionate and persistent learner, currently working as a Data Scientist Intern..
 
-**How to reach me**
+  **How to reach me**
 
 (https://www.linkedin.com/in/megha-soni-571671221/) 
-
 (Meghasonisss9@gmail.com)
 
   **About Me**

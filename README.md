@@ -1,7 +1,5 @@
-
 my name is megha 
-<!--
-**Welcome to my GitHub! I’m Ashwin Ashok (@AshwinAshok3), a passionate and persistent learner, currently working as a Data Scientist Intern..
+**Welcome to my GitHub! I’m Megha soni (@Meghasonii), a passionate and persistent learner, currently working as a Data Scientist Intern..
 
 Here are some ideas to get you started:
 

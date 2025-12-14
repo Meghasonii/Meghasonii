@@ -1,6 +1,6 @@
 **Megha soni - Workforce Analysist**
 
-Welcome to my GitHub! I’m Megha soni (@Meghasonii), a passionate and persistent learner, currently working as a Data Scientist Intern..
+Welcome to my GitHub! I’m Megha soni (@Meghasonii), a Data Analysist learner, currently working as a Workforce analysist ..
 
   **How to reach me**
 

@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m Megha soni (@Meghasonii), a passionate and persisten
 
   **How to reach me**
 
-(https://www.linkedin.com/in/megha-soni-571671221/) 
+(https://www.linkedin.com/in/megha-soni-571671221/)
 (Meghasonisss9@gmail.com)
 
   **About Me**
@@ -16,25 +16,17 @@ Alongside my WFM role, I have developed a growing interest in data analysis and 
 **Professional Experience**
 
 Real-time monitoring of queues, KPIs, and service levels
-
 Intraday reforecasting and schedule optimization
-
 Root cause analysis for SLA misses and performance gaps
-
 Stakeholder communication and real-time decision support
-
 Creating and maintaining daily, weekly, and monthly reports
 
 **Data Analysis Skills** (Learning & Hands-on Practice)
 
 Excel: Advanced formulas, Pivot Tables, Power Query
-
 SQL: Data querying, joins, aggregations
-
 Power BI: Data modeling, DAX basics, dashboards & reports
-
 Tableau: Data visualization, dashboards, storytelling
-
 Data Concepts: Data cleaning, metadata, data warehousing basics
 
 **Certifications & Learning**
@@ -42,9 +34,7 @@ Data Concepts: Data cleaning, metadata, data warehousing basics
 **Current Focus**
 
 Building end-to-end data analysis projects
-
 Practicing with real-world datasets (sales, operations, workforce data)
-
 Publishing dashboards and analysis projects on GitHub
 
 **Career Goal**
